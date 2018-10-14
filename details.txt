@@ -1,0 +1,12 @@
+Task Details :
+
+Creating an application where a user can perform the given actions :
+
+1. A user can enter the Github Username of the person and search for it.
+2. Use loaders to show the loading of the user profile.
+3. If the username exists, show the details of the person profile in a card.
+4. The user can also go to the GitHub profile from this platform.
+5. If the username doesn't exist, tell the user that entered username doesn't exist.
+
+
+After completion of the task update the code into a git repository and share the link.
